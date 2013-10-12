@@ -12,8 +12,6 @@ A small capacitor and 3 resistors to trick the iPhone into thinking a microphone
 
 A small capacitor on the speaker out of the radio removes any DC bias. (I'm not sure why this was necessary, but in my testing it made receipt of packets much more reliable.)
 
-A diode tricks the radio into not activating PTT while still (sorta) connecting the grounds. (This is certainly a hack, and I'm very open to better ideas. Please submit an issue if you have ideas!)
-
 On my UV5R+, volume is maxed, vox is set to 2 and, squelch is set to 1. On my iPhone volume is also maxed.
 
 Schematic
@@ -32,6 +30,4 @@ Bill of Materials
 
 2x 2.2k Resistor 0603
 
-2x .1uF Capacitor 0603
-
-1x Diode 1206
+2x .01uF Capacitor 0603
