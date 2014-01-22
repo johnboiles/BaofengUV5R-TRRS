@@ -4,8 +4,8 @@ http://github.com/johnboiles/BaofengUV5R-TRRS
 
 Tiny board that allows you to connect the Baofeng UV5R radio to a smartphone or other device that uses a TRRS connector for audio. Useful for connecting the radio to a software TNC app such as [APRSDroid](http://aprsdroid.org/) or [PocketPacket](https://itunes.apple.com/us/app/pocketpacket/id336500866?mt=8). Solder on the components, solder on the cables, then provide some stress relief (I like zip ties and heat shrink), and you can use your UV5R with your smartphone for APRS on the cheap.
 
-![Baofeng UV5R TRRS Adapter](http://johnboiles.s3.amazonaws.com/Screenshots/BaofengUV5R-TRRS-r2-Front.png)
-![Baofeng UV5R TRRS Adapter](http://johnboiles.s3.amazonaws.com/Screenshots/BaofengUV5R-TRRS-r2-Back.png)
+![Baofeng UV5R TRRS Adapter](http://johnboiles.s3.amazonaws.com/Screenshots/BaofengUV5R-TRRS-r3-Front.png)
+![Baofeng UV5R TRRS Adapter](http://johnboiles.s3.amazonaws.com/Screenshots/BaofengUV5R-TRRS-r3-Back.png)
 
 Notes
 -----
