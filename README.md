@@ -32,3 +32,7 @@ Bill of Materials
 2x 2.2k Resistor 0603
 
 2x .01uF Capacitor 0603
+
+How to Order
+------------
+You can order the board directly through [OSHPark](http://oshpark.com/shared_projects/qy523INb) ($1.70 for 3 boards with free shipping). Digikey or Mouser are good places to buy the resitors and capacitors.
